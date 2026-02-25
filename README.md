@@ -13,14 +13,17 @@ This project is a console-based raster image editor. It supports loading, proces
 
 ## Screenshots
 
-![demo](saves/demo.png)
+![demo](main/main/saves/screenshots/demo.png)
 
-![saveas](saves/1.png)
+![original](main/main/saves/screenshots/original.png)
 
-![save](saves/1_20260225_173715.png)
+![grayscale](main/main/saves/screenshots/1_20260226_004234.bmp)
+
+![flip top](main/main/saves/screenshots/screenshots/1.bmp)
+
+![negative](main/main/saves/screenshots/1_20260226_004316.png)
 
 ---
-
 
 ## Application Workflow
 
