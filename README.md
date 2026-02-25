@@ -17,9 +17,9 @@ This project is a console-based raster image editor. It supports loading, proces
 
 ![original](main/main/saves/screenshots/original.png)
 
-![grayscale](main/main/saves/screenshots/1_20260226_004234.bmp)
+![grayscale](main/main/saves/screenshots/1_20260226_004234.png)
 
-![flip top](main/main/saves/screenshots/screenshots/1.bmp)
+![flip top](main/main/saves/screenshots/screenshots/1.png)
 
 ![negative](main/main/saves/screenshots/1_20260226_004316.png)
 
