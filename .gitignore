@@ -1,0 +1,25 @@
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.suo
+
+# Build output
+x64/
+Debug/
+Release/
+
+# Temp files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Ignore Visual Studio project and solution files
+*.sln
+*.vcxproj
+*.vcxproj.filters
